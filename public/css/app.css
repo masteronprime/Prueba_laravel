@@ -1,0 +1,232 @@
+
+body{
+    box-sizing: content-box;
+    font-family:'palatino-blod';
+    min-height: 100vh;
+    justify-content: center;
+
+    
+}
+.resaltado2{
+    color: black;
+    font-family: 'palatino-roman-regular';
+
+}
+#navbar{
+    position: relative;
+}
+#cabecera{
+    position: relative;
+}
+.logoempresa{
+    position: relative;
+    width :100px;
+    height:60px;
+
+
+}
+#nav1{
+   margin-left: 1vb;
+   margin-right: 3vh;
+
+}
+#nav2{
+    margin-left: 3vh;
+   margin-right: 3vh;
+ 
+ 
+ }
+ #nav3{
+    margin-left: 3vh;
+   margin-right: 3vh;
+ 
+ }
+
+/*parte del cuerpo */ 
+
+.contenedor1{
+    margin-top: 3vh;
+    margin-right: 5vh;
+    margin-left: 10vh;
+    box-sizing: border-box;
+    background-size: cover;
+    flex-wrap: wrap;
+    height: 600px;
+    position: relative;
+}
+
+#titulo1{
+    font-weight: bolder;
+}
+.pagina1{
+    position: relative;
+}
+
+#texto1{
+    margin-right: 10px;
+    margin-top: 3%;
+    font-size:20px;
+}
+
+.opciones{
+    border-radius: 6%;
+    width: 340px;
+    height: 300px;
+    background-color: #FABD04;
+    color: white;
+    top: 40px;
+    right: 5px;
+    position: absolute;
+    display: block;
+
+}
+.nombre1{
+    font-size: 13px;
+}
+
+.textocuadro{
+    margin-top: 5%;
+    font-style: italic;
+    margin-left: 5%;
+    
+}
+.textocuadrot{
+    font-size: 20px;
+
+}
+.figura2{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 200px;
+    height: 40px;
+    margin-bottom: 200px;
+    background-color:#FABD04;
+    position: absolute;
+    
+    
+}
+.textofigura2{
+    padding-top: 2%;
+    font-size: 18px;
+    color: white;
+  text-align: center;
+    font-weight:bolder;
+}
+.contenedortexto2{
+    top:280px;
+    left: 20px;
+    height: 150px;
+    width: 150px;
+    color:black;
+    position: absolute;
+}
+.texto2{
+    text-align:center;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 20px;
+}
+.resaltado{
+    font-size: 25px;
+    color: #FABD04;
+    font-family: "platino roman";
+}
+.formulario{
+    margin-top: 10px;
+    width: 100%;
+    height: 100;
+    line-height: 35px;
+
+}
+#enviar{
+    border-radius: 15px;
+    width: 120px;
+    height: 35px;
+    text-align: center;
+    border: none;
+    margin-left: 80px;
+    font-size: 10px;
+    font-weight: bold;
+}
+.mensaje{
+    font-size: 13px;
+    font-style: normal;
+}
+.nombre{
+    background-color: transparent;
+    border: none;
+    width: 260px;
+    height: 50px;
+    border-bottom: 1px solid white;
+    outline: none;
+}
+.password{
+    background-color: transparent;
+    border: none;
+    width: 260px;
+    height: 30px;
+    border-bottom: 1px solid white;
+    outline: none;
+}
+.correo{
+    background-color: transparent;
+    border: none;
+    height: 14px;
+    width: 260px;
+    border-bottom: 1px solid white;
+    outline: none;
+}
+
+.texto3{
+    margin-top: 200px;
+    height: 140px;
+    width: 220px;
+    position: absolute;
+}
+.textoh3{
+    font-size: 20px;
+}
+/*2da parte de la pagina */
+.contenedor2{
+    margin-top: 3vh;
+    margin-right: 5vh;
+    margin-left: 10vh;
+    box-sizing: border-box;
+    background-size: cover;
+    flex-wrap: wrap;
+    height: 400px;
+    position: relative;
+
+}
+.texto2pag2{
+    width: 500px;
+    height: 200px;
+    font-size: 18px;
+}
+.titulo2{
+    color: #FABD04;
+}    
+.figura3 {
+    position: absolute;
+    z-index: 97;
+    top: 60px;
+    left: 550px;
+      
+}
+.figuratexto{
+    height: 80px;
+    width: 275px;
+    position: absolute;
+    top: 50px;
+    left: 180px;
+    font-family: "palatino-roman";
+    text-align: right;
+}
+
+.comillas{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 80px;
+}
